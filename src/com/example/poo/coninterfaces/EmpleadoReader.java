@@ -1,2 +1,4 @@
-package com.example.poo.coninterfaces;public class EmpleadoReader {
+package com.example.poo.coninterfaces;
+
+public class EmpleadoReader {
 }
